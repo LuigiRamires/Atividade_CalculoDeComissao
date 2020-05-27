@@ -1,0 +1,10 @@
+C:\Users\Luigi\Desktop\GitHub\Atividade_CalculoDeComissao\Atividade_CalculoDeComissao\bin\Debug\Atividade_CalculoDeComissao.exe.config
+C:\Users\Luigi\Desktop\GitHub\Atividade_CalculoDeComissao\Atividade_CalculoDeComissao\bin\Debug\Atividade_CalculoDeComissao.exe
+C:\Users\Luigi\Desktop\GitHub\Atividade_CalculoDeComissao\Atividade_CalculoDeComissao\bin\Debug\Atividade_CalculoDeComissao.pdb
+C:\Users\Luigi\Desktop\GitHub\Atividade_CalculoDeComissao\Atividade_CalculoDeComissao\obj\Debug\Atividade_CalculoDeComissao.csprojAssemblyReference.cache
+C:\Users\Luigi\Desktop\GitHub\Atividade_CalculoDeComissao\Atividade_CalculoDeComissao\obj\Debug\Atividade_CalculoDeComissao.frmComissao.resources
+C:\Users\Luigi\Desktop\GitHub\Atividade_CalculoDeComissao\Atividade_CalculoDeComissao\obj\Debug\Atividade_CalculoDeComissao.Properties.Resources.resources
+C:\Users\Luigi\Desktop\GitHub\Atividade_CalculoDeComissao\Atividade_CalculoDeComissao\obj\Debug\Atividade_CalculoDeComissao.csproj.GenerateResource.cache
+C:\Users\Luigi\Desktop\GitHub\Atividade_CalculoDeComissao\Atividade_CalculoDeComissao\obj\Debug\Atividade_CalculoDeComissao.csproj.CoreCompileInputs.cache
+C:\Users\Luigi\Desktop\GitHub\Atividade_CalculoDeComissao\Atividade_CalculoDeComissao\obj\Debug\Atividade_CalculoDeComissao.exe
+C:\Users\Luigi\Desktop\GitHub\Atividade_CalculoDeComissao\Atividade_CalculoDeComissao\obj\Debug\Atividade_CalculoDeComissao.pdb
